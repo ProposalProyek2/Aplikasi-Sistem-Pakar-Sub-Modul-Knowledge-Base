@@ -39,18 +39,18 @@ Ruang lingkup yang digunakan dalam proyek ini adalah : <br>
 **1.5 Rencana dan Jadwal Kerja**
 
 <p align="center">
-  <img src="https://github.com/ProposalProyek2/Aplikasi-Sistem-Pakar-Sub-Modul-Knowledge-Base/blob/master/img/jadwal.png">
+  <img src="https://github.com/ProposalProyek2/Aplikasi-Sistem-Pakar-Sub-Modul-Knowledge-Base/blob/master/img/jadwal.PNG">
 </p>
 
 **1.6 Flowchart**
 
 <p align="center">
-  <img src="https://github.com/ProposalProyek2/Aplikasi-Sistem-Pakar-Sub-Modul-Knowledge-Base/blob/master/img/flowchart2.png">
+  <img src="https://github.com/ProposalProyek2/Aplikasi-Sistem-Pakar-Sub-Modul-Knowledge-Base/blob/master/img/flowchart2.PNG">
 </p>
 
 
 <p align="center">
-  <img src="https://github.com/ProposalProyek2/Aplikasi-Sistem-Pakar-Sub-Modul-Knowledge-Base/blob/master/img/flowchart1.png">
+  <img src="https://github.com/ProposalProyek2/Aplikasi-Sistem-Pakar-Sub-Modul-Knowledge-Base/blob/master/img/flowchart1.PNG">
 </p>
 
 
